@@ -18,7 +18,7 @@ Gestion des Interventions : De nouvelles interventions peuvent être créées en
 
 Configuration:
 
---> Installation des Dépendances : Installez les dépendances requises en exécutant pip install -r requirements.txt.
+--> Build du projet : docker-compose up --build
 
 --> Exécution de l'Application :le serveur Flask s'exécute sur http://localhost:5000.
 
